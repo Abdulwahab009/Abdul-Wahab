@@ -16,6 +16,8 @@ My journey in Software Engineering has led me to develop a passion for cybersecu
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Abdulwahab009/Home-ELK--SIEM-project">Detection Lab</a>|
+| Home-Network-Monitoring                       | <a href="https://github.com/Abdulwahab009/Home-Network-Monitoring">Monitoring Lab</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -49,4 +51,4 @@ My journey in Software Engineering has led me to develop a passion for cybersecu
 
 ## Projects
 - Detection Lab
-- SOC Automation ProjectWahab
+- Network Monitoring 
