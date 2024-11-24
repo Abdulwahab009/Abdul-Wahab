@@ -20,12 +20,12 @@ My journey in Software Engineering has led me to develop a passion for cybersecu
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-E05A00?&style=for-the-badge&logo=https://your-logo-url.com/suricata-logo.png&logoColor=white" />
+
 </div>
 
 ### Endpoint
@@ -37,16 +37,20 @@ My journey in Software Engineering has led me to develop a passion for cybersecu
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Logstash-005571?&style=for-the-badge&logo=Logstash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kibana-E8478B?&style=for-the-badge&logo=Kibana&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+## Certifications
+- Please do visit my Linkdln profile to Veiw my Certifications
+<div>
+    <a href="https://www.linkedin.com/in/abdul-wahab-20b087172" target="_blank">
+        <img src="https://img.shields.io/badge/View_My_Certifications_on_LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    </a>
+</div>
+
 </div>
 
 ## Projects
