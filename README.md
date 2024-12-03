@@ -51,6 +51,6 @@ My journey in Software Engineering has led me to develop a passion for cybersecu
 
 </div>
 
-## Projects
+## Projects / Labs
 - Detection Lab
 - Network Monitoring 
